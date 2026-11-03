@@ -1,0 +1,85 @@
+{
+  "symbol": "TITAN",
+  "period": "Nov 2025",
+  "quarter": "Q2 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 54983,
+    "sent": 21232
+  },
+  "dropped_unverified": 0,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 5467,
+    "output_tokens": 907
+  },
+  "guidance": [
+    {
+      "metric": "store openings",
+      "claim": "The target for new Tanishq stores is 35 to 40 for the year.",
+      "quote": "So we look at it in totality, but purely from new stores on Tanishq, I think 35 to 40 is a reasonable range to expect.",
+      "quantified": true,
+      "horizon": "FY26",
+      "speaker": "Ajoy Chawla"
+    },
+    {
+      "metric": "watch margins",
+      "claim": "Watch margins are aimed at 15% to 16% in a 1 to 2 year timeframe.",
+      "quote": "And on a long term, I would say the kind of investments are required, mid - teen is a good number to aim for, 15% to 16% for the business, at least in th e 1-year, 2-year time frame.",
+      "quantified": true,
+      "horizon": "1-2 year time frame",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "eyewear growth",
+      "claim": "Eyewear business growth is expected to close the year around 13% to 14%.",
+      "quote": "So as far as our growth outlook is concerned, we believe that we should be closing this year at a slightly higher number than what you are seeing, anywhere between 13% to 14%.",
+      "quantified": true,
+      "horizon": "this year",
+      "speaker": "Devanshu Bansal"
+    },
+    {
+      "metric": "jewellery growth",
+      "claim": "Growth rates by YTD December should become better than first half growth rates.",
+      "quote": "But certainly, at a very broad level, I think by the time we end -- we come to YTD December, our growth rates should have become better than the first half growth rates.",
+      "quantified": false,
+      "horizon": "YTD December",
+      "speaker": "Ajoy Chawla"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "buyer growth",
+      "claim": "Overall buyer growth was minus 2% for the quarter.",
+      "quote": "Buyer growth overall has been minus 2% for the quarter.",
+      "quantified": true,
+      "horizon": "quarter 2",
+      "speaker": "Ajoy Chawla"
+    },
+    {
+      "metric": "gold jewellery buyer growth",
+      "claim": "Gold jewellery buyer growth was minus 11% for the quarter.",
+      "quote": "Gold was minus 11%, largely driven by the sub INR 1 lakh.",
+      "quantified": true,
+      "horizon": "quarter 2",
+      "speaker": "Ajoy Chawla"
+    },
+    {
+      "metric": "high-value studded contribution",
+      "claim": "High-value studded contributed around 14% of the overall business in quarter 2.",
+      "quote": "So in Quarter 2, it was contributing around 14% of the overall business, and that was 1 percentage point higher than last year Quarter 2.",
+      "quantified": true,
+      "horizon": "Quarter 2",
+      "speaker": "Ajoy Chawla"
+    },
+    {
+      "metric": "watch festive growth",
+      "claim": "Watch festive period saw a 16% growth over last year.",
+      "quote": "On watches, the question on festive growth has been high compared to a quarter where we grew about 12%, the festive period sort of saw a 16% growth over last year, same similar period.",
+      "quantified": true,
+      "horizon": "festive period",
+      "speaker": "Kuruvilla Markose"
+    }
+  ]
+}
