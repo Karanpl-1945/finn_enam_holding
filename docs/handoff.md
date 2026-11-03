@@ -61,7 +61,7 @@ Deadline: Tuesday 3 November 2026 (extended from Sunday 1 Nov in the brief).
 ## Status as of Tue 3 Nov, 03:00
 
 - Repo: https://github.com/Karanpl-1945/finn_enam_holding (`main`).
-- Push screen live: https://finn-portfolio-gamma.vercel.app (Vercel
+- Push screen live: https://finn-enam-holding-drab.vercel.app (Vercel
   project `finn-portfolio`, deployed from `web/`). Static; data comes from
   `web/data/feed.json`, made by `python export_web.py`.
 - Cache refreshed: prices for all 18 companies (to 30 Oct), filings to 2 Nov.
