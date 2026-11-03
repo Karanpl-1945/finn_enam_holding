@@ -1,0 +1,197 @@
+{
+  "symbol": "ASIANPAINT",
+  "headline": "Management maintained stable volume and margin guidance across quarters, delivering within or close to targeted ranges despite fluctuating quarterly results.",
+  "counts": {
+    "delivered": 2,
+    "partly": 0,
+    "missed": 1,
+    "pending": 1,
+    "dropped": 1
+  },
+  "promises": [
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Volume growth in the 8 to 10 percent band for Q4.",
+      "quote": "I think as we go ahead, this band would remain, in terms of what we would be able to target for the Q4 as well.",
+      "verdict": "missed",
+      "evidence": "Decorative business achieved 12.4% volume growth and coatings volume reached 12.7% in the quarter.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": 12.4,
+      "direction": "within",
+      "evidence_quote": "When we look at the decorative business, we have achieved 12.4% volume growth and a very strong value growth of 10.2%.",
+      "horizon": "Q4",
+      "target_high": 10,
+      "target_low": 8,
+      "unit": "%",
+      "verdict_by": "numbers",
+      "model_verdict": "delivered"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Endeavour to maintain margin guidance between 18 and 20%",
+      "quote": "So, I would say that we would keep the guidance between that 18 and 20% band as we go ahead and that is something which we will endeavour to maintain.",
+      "verdict": "delivered",
+      "evidence": "H1 PBDIT margin was in the higher range at 19.6%.",
+      "evidence_from": "Q2 FY27 call",
+      "actual": 19.6,
+      "direction": "within",
+      "evidence_quote": "The great thing to look at is that the PBDIT margin growth at a half-year level is very good and the PBDIT margin is in the higher range of the overall band of what we have been speaking at 19.6%.",
+      "horizon": "going ahead",
+      "target_high": 20,
+      "target_low": 18,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Train almost 10 lakh people this year.",
+      "quote": "This year, as we kind of go ahead, we are gunning for training almost 10 lakh people.",
+      "verdict": "dropped",
+      "evidence": "Management did not report or mention the training count figure in subsequent calls.",
+      "evidence_from": "reported numbers"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "High single-digit volume growth of 8-10% going forward.",
+      "quote": "We are still confident that demand conditions should continue giving us closer to high single-digit volume growth in the band of about 8 -10%, as we predict going forward.",
+      "verdict": "delivered",
+      "evidence": "Overall volume growth was strong at about 9% in Q1 FY27.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": 9,
+      "direction": "within",
+      "evidence_quote": "Overall, we are at about a strong 9% volume growth.",
+      "horizon": "FY27",
+      "target_high": 10,
+      "target_low": 8,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Commission first phase of VAM-VAE in H1 FY27",
+      "quote": "we expect to commission first phase in the first half of this year.",
+      "verdict": "pending",
+      "evidence": "Management discussed capacity utilization plans for the VAE plant in Q2 FY27 call without confirming commissioning date.",
+      "evidence_from": "Q2 FY27 call",
+      "horizon": "H1 FY27"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "Volume and value gap",
+      "change": "Adjusted the realistic gap expectation from 4-5% down to 3-4%.",
+      "from_quarter": "Q3 FY26 call",
+      "to_quarter": "Q4 FY26 call"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q3 FY26",
+      "period": "Feb 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Jun 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 6,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q2 FY27",
+      "period": "Nov 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
+      "nse": false,
+      "guidance": 5,
+      "reported": 5,
+      "dropped_unverified": 1
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026",
+      "Sep 2026"
+    ],
+    "rows": {
+      "Sales": [
+        8549.0,
+        8359.0,
+        8939.0,
+        8531.0,
+        8867.0,
+        9247.0,
+        10542.0,
+        9977.0
+      ],
+      "OPM %": [
+        19.0,
+        17.0,
+        18.0,
+        18.0,
+        20.0,
+        19.0,
+        21.0,
+        16.0
+      ],
+      "Net Profit": [
+        1128.0,
+        701.0,
+        1117.0,
+        1018.0,
+        1074.0,
+        1185.0,
+        1559.0,
+        1085.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6210,
+      "output_tokens": 1110
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 6082,
+      "output_tokens": 1109
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4592,
+      "output_tokens": 957
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4289,
+      "output_tokens": 1214
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 3345,
+      "output_tokens": 1044
+    }
+  ]
+}
