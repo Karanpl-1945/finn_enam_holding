@@ -1,0 +1,85 @@
+{
+  "symbol": "TITAN",
+  "period": "Feb 2026",
+  "quarter": "Q3 FY26",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 53750,
+    "sent": 17469
+  },
+  "dropped_unverified": 2,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4492,
+    "output_tokens": 1119
+  },
+  "guidance": [
+    {
+      "metric": "CaratLane EBIT margin",
+      "claim": "CaratLane will inch towards a low double-digit EBIT margin with scale.",
+      "quote": "So I expect that overall margin, we had -- if you remember, a couple of quarters back, we had said that, gradually, CaratLane with the scale will start inching towards double -digit EBIT margin.",
+      "quantified": true,
+      "horizon": "medium term",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "volume growth",
+      "claim": "We will continue to deliver volume growth around 8% to 10%.",
+      "quote": "This is what we have estimated, around an 8% to 10% growth. So this is what we will continue to deliver.",
+      "quantified": true,
+      "horizon": "future",
+      "speaker": "Devanshu Bansal"
+    },
+    {
+      "metric": "gold prices and margins",
+      "claim": "Gold prices might continue to go up, creating margin stress.",
+      "quote": "So one can expect that gold prices might continue to go up. And in that environment, there will be stress on margins.",
+      "quantified": false,
+      "horizon": "future",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "EBIT and PBT level margin",
+      "claim": "Good revenue growth will help maintain EBIT or PBT level margins.",
+      "quote": "As long as we are able to deliver good revenue growth, we will get operating leverage and we will able to maintain EBIT level or PBT level margin profile.",
+      "quantified": false,
+      "horizon": "future",
+      "speaker": "Ashok Sonthalia"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "stake acquisition",
+      "claim": "We completed a 67% stake acquisition of Damas.",
+      "quote": "We are very happy to announce that we completed 67% stake acquisition of Damas.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "exceptional item impact",
+      "claim": "Consolidated exceptional item impact is INR152 crores, and INR138 crores standalone.",
+      "quote": "The impact on a consolidated level is INR152 crores, which has been shown an exceptional item in the consolidated as well as INR138 crores in stand-alone financials.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "jewellery gross margin",
+      "claim": "Comparable standalone gross margin dipped by about 200 basis points in Q3.",
+      "quote": "The comparable gross margin, so that we report in our stand -alone financials, has dipped by about 200 basis points in Q3.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Devanshu Bansal"
+    },
+    {
+      "metric": "omnichannel sale revenue growth",
+      "claim": "The reported omnichannel revenue growth is 11% with close to 8% volume growth.",
+      "quote": "So the omnichannel sale, what we have reported, is 11%. That's the revenue growth. And this revenue growth has been reported by a volume growth of close to around 8%.",
+      "quantified": true,
+      "horizon": "Q3 FY26",
+      "speaker": "Devanshu Bansal"
+    }
+  ]
+}
