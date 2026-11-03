@@ -1,0 +1,101 @@
+{
+  "symbol": "ASIANPAINT",
+  "period": "Nov 2026",
+  "quarter": "Q2 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 48756,
+    "sent": 16775
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4289,
+    "output_tokens": 1214
+  },
+  "guidance": [
+    {
+      "metric": "volume growth",
+      "claim": "Expect a volume growth of 8% to 9% going forward.",
+      "quote": "we feel that it would be reasonable to expect to see a volume growth of about 8% to 9% going forward.",
+      "quantified": true,
+      "horizon": "going forward",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "gross margin band",
+      "claim": "Gross margin band should be 41% to 43% going forward.",
+      "quote": "This band of about 41% to 43% would really be the band we should be looking forward to.",
+      "quantified": true,
+      "horizon": "second half",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "EBITDA margin band",
+      "claim": "Maintain the EBITDA margin band of 18% to 20% for the year.",
+      "quote": "We believe as we go forward, for the year we should be able to maintain the band of what we have spoken of 18% to 20%.",
+      "quantified": true,
+      "horizon": "FY",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "capacity utilization",
+      "claim": "Utilize full capacity of phase one of VAE plant next year.",
+      "quote": "As we go , we will be looking at a part of the overall capacity of what we will utilize till March and what we plan is that next year we will be 32 | able to utilize the full capacity of this phase one of going forward .",
+      "quantified": true,
+      "horizon": "next year",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "product margin advantage",
+      "claim": "VAE plant to give 300 bps to 500 bps advantage on relevant products.",
+      "quote": "It should really give us some advantage of 300 bps to 500 bps on relevant products.",
+      "quantified": true,
+      "horizon": null,
+      "speaker": "Amit Syngle"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "volume growth",
+      "claim": "Q2 volume growth was 6.4% on a high base.",
+      "quote": "we have been able to grow at a good volume of about 6.4% at the base of the last year, which was almost about an 11% growth in terms of a like-to-like quarter.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "value growth",
+      "claim": "Q2 value growth was 14.5% for decorative business.",
+      "quote": "When we look at the whole area of value of the decorative business, so I spoke of a 6.4% volume growth, the value growth has also been very strong at 14.5%.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "Kitchen and Bath growth",
+      "claim": "Kitchen and Bath business growth was astronomical at almost 34%.",
+      "quote": "Here, the growth has been astronomical, almost 34% of the growth we have garnered here.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "standalone PBDIT margin",
+      "claim": "Standalone PBDIT margin was 17.1% in Q2.",
+      "quote": "If you see from a like-to-like quarter perspective, PBDIT margin is about 17.1% compared to the last year, same quarter which was about 18.5%.",
+      "quantified": true,
+      "horizon": "Q2",
+      "speaker": "Amit Syngle"
+    },
+    {
+      "metric": "H1 PBDIT margin",
+      "claim": "H1 PBDIT margin was in the higher range at 19.6%.",
+      "quote": "The great thing to look at is that the PBDIT margin growth at a half-year level is very good and the PBDIT margin is in the higher range of the overall band of what we have been speaking at 19.6%.",
+      "quantified": true,
+      "horizon": "H1",
+      "speaker": "Amit Syngle"
+    }
+  ]
+}
