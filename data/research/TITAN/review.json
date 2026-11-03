@@ -1,0 +1,277 @@
+{
+  "symbol": "TITAN",
+  "headline": "Titan management maintained growth targets across divisions, with margins fluctuating amid rising gold prices and changing business scales.",
+  "counts": {
+    "delivered": 3,
+    "partly": 1,
+    "missed": 0,
+    "pending": 5,
+    "dropped": 0
+  },
+  "promises": [
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "New Tanishq stores target is 35 to 40 for the year.",
+      "quote": "So we look at it in totality, but purely from new stores on Tanishq, I think 35 to 40 is a reasonable range to expect.",
+      "verdict": "pending",
+      "evidence": "Data is insufficient to settle the full year store count outcome from the provided calls.",
+      "evidence_from": "reported numbers",
+      "actual": null,
+      "direction": "within",
+      "evidence_quote": null,
+      "horizon": "FY26",
+      "target_high": 40.0,
+      "target_low": 35.0,
+      "unit": "stores"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "Watch margins aimed at 15% to 16% in 1-2 years.",
+      "quote": "And on a long term, I would say the kind of investments are required, mid - teen is a good number to aim for, 15% to 16% for the business, at least in th e 1-year, 2-year time frame.",
+      "verdict": "delivered",
+      "evidence": "Normalized watch EBIT margin was reported at 17.8% in Q1 FY27, meeting or exceeding mid-teen target.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": 17.8,
+      "direction": "at_least",
+      "evidence_quote": "So if you normalize for both these sides, then last Quarter 1 FY '26 watch EBIT margin was 18.6% compared to 17.8% normalized margin for this quarter.",
+      "horizon": "1-2 year time frame",
+      "target_high": 16.0,
+      "target_low": 15.0,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "Eyewear growth expected to close year around 13% to 14%.",
+      "quote": "So as far as our growth outlook is concerned, we believe that we should be closing this year at a slightly higher number than what you are seeing, anywhere between 13% to 14%.",
+      "verdict": "pending",
+      "evidence": "Full year eyewear exact growth is not detailed in later reports.",
+      "evidence_from": "reported numbers",
+      "actual": null,
+      "direction": "within",
+      "evidence_quote": null,
+      "horizon": "this year",
+      "target_high": 14.0,
+      "target_low": 13.0,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q2 FY26 call",
+      "promise": "YTD December growth rates should become better than H1.",
+      "quote": "But certainly, at a very broad level, I think by the time we end -- we come to YTD December, our growth rates should have become better than the first half growth rates.",
+      "verdict": "pending",
+      "evidence": "No explicit YTD December growth rate comparison statement is given in subsequent calls.",
+      "evidence_from": "reported numbers",
+      "actual": null,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": "YTD December",
+      "target_high": null,
+      "target_low": null,
+      "unit": null
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "CaratLane will inch towards a low double-digit EBIT margin.",
+      "quote": "So I expect that overall margin, we had -- if you remember, a couple of quarters back, we had said that, gradually, CaratLane with the scale will start inching towards double -digit EBIT margin.",
+      "verdict": "delivered",
+      "evidence": "CaratLane margin for the year is almost nearly 10%, achieving low double-digit level.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": 10.0,
+      "direction": "at_least",
+      "evidence_quote": "But for the year, it's almost nearly 10%.",
+      "horizon": "medium term",
+      "target_high": 12.0,
+      "target_low": 10.0,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q3 FY26 call",
+      "promise": "Continue to deliver volume growth around 8% to 10%.",
+      "quote": "This is what we have estimated, around an 8% to 10% growth. So this is what we will continue to deliver.",
+      "verdict": "delivered",
+      "evidence": "Omnichannel sale reported a volume growth of close to around 8% in Q3 FY26.",
+      "evidence_from": "Q3 FY26 call",
+      "actual": 8.0,
+      "direction": "within",
+      "evidence_quote": "And this revenue growth has been reported by a volume growth of close to around 8%.",
+      "horizon": "future",
+      "target_high": 10.0,
+      "target_low": 8.0,
+      "unit": "%",
+      "verdict_by": "numbers"
+    },
+    {
+      "made_in": "Q4 FY26 call",
+      "promise": "Target 15% to 20% jewellery growth over 3 to 4 years.",
+      "quote": "Think of it over the next three to four years, what should be the growth. I think India growth story and the formalization of this sector will land you in this space.",
+      "verdict": "pending",
+      "evidence": "Horizon is 3 to 4 years which has not ended yet.",
+      "evidence_from": "Q4 FY26 call",
+      "actual": null,
+      "direction": "within",
+      "evidence_quote": null,
+      "horizon": "next three to four years",
+      "target_high": 20.0,
+      "target_low": 15.0,
+      "unit": "%"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Center of gravity for jewellery business margin is around 11%.",
+      "quote": "In the Investor Day and prior, we have said that more of 11% being the center of gravity for jewellery business margin, we would be around that plus/minus something can happen.",
+      "verdict": "partly",
+      "evidence": "Normalized EBIT margin for Tanishq Mia Zoya business was 10.9% for Q1 FY27.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": 10.9,
+      "direction": "within",
+      "evidence_quote": "So the normalized margin considering both custom duty gain and MTM gain, the normalized EBIT margin for our Tanishq Mia Zoya business would be 10.9%, the number for this quarter.",
+      "horizon": "full year",
+      "target_high": 11.0,
+      "target_low": 11.0,
+      "unit": "%",
+      "verdict_by": "numbers",
+      "model_verdict": "delivered"
+    },
+    {
+      "made_in": "Q1 FY27 call",
+      "promise": "Targeting a double-digit aggressive growth in jewellery.",
+      "quote": "If I may add, if you're looking for what is that we are targeting, we are targeting, as always, a double-digit aggressive growth, and that's something which we shared even in the Investor Day.",
+      "verdict": "pending",
+      "evidence": "Horizon has not ended yet.",
+      "evidence_from": "Q1 FY27 call",
+      "actual": null,
+      "direction": "at_least",
+      "evidence_quote": null,
+      "horizon": "medium to long term",
+      "target_high": null,
+      "target_low": 10.0,
+      "unit": "%"
+    }
+  ],
+  "shifts": [
+    {
+      "topic": "CaratLane EBIT Margin",
+      "change": "Shifted from expecting gradual improvement towards low double-digits to reporting an actual near 10% margin.",
+      "from_quarter": "Q3 FY26",
+      "to_quarter": "Q4 FY26"
+    },
+    {
+      "topic": "Jewellery Growth Guidance",
+      "change": "Refined long-term expectations to a specific 15% to 20% range over 3 to 4 years in Q4 FY26, then reiterated double-digit aggressive growth in Q1 FY27.",
+      "from_quarter": "Q4 FY26",
+      "to_quarter": "Q1 FY27"
+    }
+  ],
+  "calls": [
+    {
+      "quarter": "Q2 FY26",
+      "period": "Nov 2025",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 4,
+      "dropped_unverified": 0
+    },
+    {
+      "quarter": "Q3 FY26",
+      "period": "Feb 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 4,
+      "dropped_unverified": 2
+    },
+    {
+      "quarter": "Q4 FY26",
+      "period": "Jun 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf",
+      "nse": false,
+      "guidance": 2,
+      "reported": 4,
+      "dropped_unverified": 1
+    },
+    {
+      "quarter": "Q1 FY27",
+      "period": "Aug 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf",
+      "nse": false,
+      "guidance": 4,
+      "reported": 4,
+      "dropped_unverified": 1
+    }
+  ],
+  "numbers": {
+    "periods": [
+      "Sep 2024",
+      "Dec 2024",
+      "Mar 2025",
+      "Jun 2025",
+      "Sep 2025",
+      "Dec 2025",
+      "Mar 2026",
+      "Jun 2026"
+    ],
+    "rows": {
+      "Sales": [
+        14534.0,
+        17740.0,
+        14916.0,
+        16523.0,
+        18725.0,
+        25416.0,
+        26920.0,
+        21356.0
+      ],
+      "OPM %": [
+        8.0,
+        9.0,
+        10.0,
+        11.0,
+        10.0,
+        11.0,
+        7.0,
+        14.0
+      ],
+      "Net Profit": [
+        704.0,
+        1047.0,
+        871.0,
+        1091.0,
+        1120.0,
+        1684.0,
+        1179.0,
+        1777.0
+      ]
+    }
+  },
+  "dropped_from_review": 0,
+  "usage": [
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 5467,
+      "output_tokens": 907
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4492,
+      "output_tokens": 1119
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4681,
+      "output_tokens": 762
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 4795,
+      "output_tokens": 1077
+    },
+    {
+      "model": "gemini-3.5-flash-lite",
+      "input_tokens": 2919,
+      "output_tokens": 2167
+    }
+  ]
+}
