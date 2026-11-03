@@ -5,7 +5,7 @@ Hello ENAM team,
 
 Here is my submission for the FINN challenge.
 
-- **Prototype (open on a phone):** https://finn-portfolio-gamma.vercel.app
+- **Prototype (open on a phone):** https://finn-enam-holding-drab.vercel.app
 - **Repository:** https://github.com/Karanpl-1945/finn_enam_holding
 - **AI build history:** [claude.ai planning chat link] and [Claude Code session export, attached]
 
