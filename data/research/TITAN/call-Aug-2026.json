@@ -1,0 +1,85 @@
+{
+  "symbol": "TITAN",
+  "period": "Aug 2026",
+  "quarter": "Q1 FY27",
+  "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf",
+  "nse": false,
+  "chars": {
+    "transcript": 49216,
+    "sent": 18850
+  },
+  "dropped_unverified": 1,
+  "usage": {
+    "model": "gemini-3.5-flash-lite",
+    "input_tokens": 4795,
+    "output_tokens": 1077
+  },
+  "guidance": [
+    {
+      "metric": "jewellery EBIT margin",
+      "claim": "The center of gravity for jewellery business margin is around 11%.",
+      "quote": "In the Investor Day and prior, we have said that more of 11% being the center of gravity for jewellery business margin, we would be around that plus/minus something can happen.",
+      "quantified": true,
+      "horizon": "full year",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "jewellery value growth",
+      "claim": "We are targeting a double-digit aggressive growth in jewellery.",
+      "quote": "If I may add, if you're looking for what is that we are targeting, we are targeting, as always, a double-digit aggressive growth, and that's something which we shared even in the Investor Day.",
+      "quantified": false,
+      "horizon": "medium to long term",
+      "speaker": "Ajoy Chawla"
+    },
+    {
+      "metric": "TEAL EBIT margin",
+      "claim": "Normalized margin for TEAL will gradually gravitate towards 12% to 16%.",
+      "quote": "Overall, long term, growth is on a very strong wicket, but the normalized margin would be gradually gravitating towards 12% to 15%, 16%.",
+      "quantified": true,
+      "horizon": "long term",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "international business EBIT margin",
+      "claim": "International business except Damas makes 5% to 6% mid-single-digit EBIT margin.",
+      "quote": "I would think that our rest of the portfolio of international business, except Damas is making profit mid-single-digit EBIT margin, 5% - 6%, which they will continue to make.",
+      "quantified": true,
+      "horizon": "full year",
+      "speaker": "Ashok Sonthalia"
+    }
+  ],
+  "reported": [
+    {
+      "metric": "customs duty gain",
+      "claim": "Consolidated customs duty realization was ₹407 crores for the quarter.",
+      "quote": "While these gains will be realized as the inventory gets sold over the next couple of quarters, but in this quarter, we had overall at a consolidated level realization of ₹407 crores, ₹386 crores was in Tanishq Mia Zoya portfolio and ₹21 crores was in CaratLane.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "Tanishq Mia Zoya EBIT margin",
+      "claim": "Normalized EBIT margin for Tanishq Mia Zoya business was 10.9% for the quarter.",
+      "quote": "So the normalized margin considering both custom duty gain and MTM gain, the normalized EBIT margin for our Tanishq Mia Zoya business would be 10.9%, the number for this quarter.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "watch EBIT margin",
+      "claim": "Normalized watch EBIT margin was 17.8% for the quarter.",
+      "quote": "So if you normalize for both these sides, then last Quarter 1 FY '26 watch EBIT margin was 18.6% compared to 17.8% normalized margin for this quarter.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Ashok Sonthalia"
+    },
+    {
+      "metric": "CaratLane EBIT margin",
+      "claim": "CaratLane delivered 9.6% EBIT margin for the quarter.",
+      "quote": "So they have delivered 9.6%, I think something like that, 9% upwards.",
+      "quantified": true,
+      "horizon": "this quarter",
+      "speaker": "Ashok Sonthalia"
+    }
+  ]
+}
