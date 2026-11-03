@@ -1,0 +1,156 @@
+[
+  {
+    "symbol": "ADANIPORTS",
+    "headline": "Adani Ports shows consistent performance with strong revenue growth and disciplined leverage, though some long-term targets remain pending.",
+    "counts": {
+      "delivered": 3,
+      "partly": 1,
+      "missed": 0,
+      "pending": 5,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "headline": "Management maintained stable volume and margin guidance across quarters, delivering within or close to targeted ranges despite fluctuating quarterly results.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 1,
+      "pending": 1,
+      "dropped": 1
+    }
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "headline": "Management maintains consistent confidence in operational metrics like opex improvement and customer acquisition while achieving strong AUM and profit growth.",
+    "counts": {
+      "delivered": 0,
+      "partly": 0,
+      "missed": 0,
+      "pending": 8,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "HDFCBANK",
+    "headline": "Management provided qualitative guidance focusing on long-term growth, asset quality, and margin trajectories, while short-term targets remained largely pending or subject to evolving conditions.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 0,
+      "pending": 8,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "INFY",
+    "headline": "Management maintained steady operating margin and hiring guidance while progressively lowering constant currency revenue growth expectations across fiscal 2027.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 0,
+      "pending": 5,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "IRCTC",
+    "headline": "IRCTC delivered steady revenue growth and robust tourism performance, though meeting specific capacity and margin targets remains mixed or pending.",
+    "counts": {
+      "delivered": 0,
+      "partly": 0,
+      "missed": 2,
+      "pending": 3,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "KAYNES",
+    "headline": "Kaynes consistently delivered on major revenue milestones and strategic business expansion, while shifting focus on cash flow and segment-specific timelines over successive quarters.",
+    "counts": {
+      "delivered": 2,
+      "partly": 1,
+      "missed": 0,
+      "pending": 4,
+      "dropped": 3
+    }
+  },
+  {
+    "symbol": "LT",
+    "headline": "Management maintained steady operational performance with minor adjustments to revenue and margin guidance across quarters.",
+    "counts": {
+      "delivered": 2,
+      "partly": 1,
+      "missed": 1,
+      "pending": 1,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "MARUTI",
+    "headline": "Maruti delivered its volume growth and capex targets during the period, while medium-term capacity and charging network goals remain pending.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 0,
+      "pending": 3,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "PERSISTENT",
+    "headline": "Persistent maintained ambitious long-term revenue aspirations and steady margin goals, while actively pursuing large strategic transactions and keeping consistent growth.",
+    "counts": {
+      "delivered": 0,
+      "partly": 1,
+      "missed": 0,
+      "pending": 8,
+      "dropped": 1
+    }
+  },
+  {
+    "symbol": "POLYCAB",
+    "headline": "Polycab consistently grew revenues above 25% while maintaining margins and expanding its cash reserves across the reported quarters.",
+    "counts": {
+      "delivered": 2,
+      "partly": 0,
+      "missed": 1,
+      "pending": 6,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "RELIANCE",
+    "headline": "Management regularly guides on future operational capacities and segment milestones with mostly pending or long-term horizons, while reporting steady financial metrics.",
+    "counts": {
+      "delivered": 0,
+      "partly": 0,
+      "missed": 1,
+      "pending": 6,
+      "dropped": 0
+    }
+  },
+  {
+    "symbol": "TCS",
+    "headline": "Management consistently targets long-term margin bands of 26% to 28% while near-term performance oscillates around 24% to 25%.",
+    "counts": {
+      "delivered": 3,
+      "partly": 1,
+      "missed": 2,
+      "pending": 1,
+      "dropped": 1
+    }
+  },
+  {
+    "symbol": "TITAN",
+    "headline": "Titan management maintained growth targets across divisions, with margins fluctuating amid rising gold prices and changing business scales.",
+    "counts": {
+      "delivered": 3,
+      "partly": 1,
+      "missed": 0,
+      "pending": 5,
+      "dropped": 0
+    }
+  }
+]
